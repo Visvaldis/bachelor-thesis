@@ -1,0 +1,25 @@
+{
+  "description": "Description is **formatted** as markdown.\n\nIt should also contain any processing which has been applied (if any),\n(e.g. corrupted example skipped, images cropped,...):",
+  "location": {
+    "urls": [
+      "https://dataset-homepage/"
+    ]
+  },
+  "moduleName": "auto_cracks_dataset",
+  "name": "auto_cracks_dataset",
+  "splits": [
+    {
+      "name": "train",
+      "numBytes": "252225317",
+      "shardLengths": [
+        "4874",
+        "4874"
+      ]
+    }
+  ],
+  "supervisedKeys": {
+    "input": "image",
+    "output": "label"
+  },
+  "version": "1.0.0"
+}
