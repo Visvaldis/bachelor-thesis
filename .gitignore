@@ -1,0 +1,8 @@
+Data/auto_cracks_dataset/damages_dataset_224_cropped/.DS_Store
+Data/auto_cracks_dataset/damages_dataset_224_cropped/dataset_metadata.json
+Data/auto_cracks_dataset/damages_dataset_224_cropped/images/
+Data/auto_cracks_dataset/damages_dataset_224_cropped/train/repair/
+Data/auto_cracks_dataset/damages_dataset_224_cropped/train/replacement/
+
+Data/build/auto_cracks_dataset/1.0.0/auto_cracks_dataset-train.tfrecord-00000-of-00002
+Data/build/auto_cracks_dataset/1.0.0/auto_cracks_dataset-train.tfrecord-00001-of-00002
